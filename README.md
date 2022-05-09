@@ -29,3 +29,13 @@ Get more value from your data with prediction models and machine learning techni
 
 •Dashboards:
 showing the most recent results in an interactive way. By clicking and drilling, you will examine trends and patterns yourself.
+
+
+**Education**
+
+
+Graduated from Alexandria university department of communications and electronics with GPA3.32 at June 2018 
+
+
+ 
+
