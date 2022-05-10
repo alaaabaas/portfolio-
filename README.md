@@ -51,6 +51,7 @@ My most precious client is the ramiz retail collaboration  based here in Qatar. 
 I Designed and implemented A/B experiment to decide which website design boosts the conversion rate of an online courses website as a graduation project from my data analysis udacity nanodegree 
 
 
+**projects**
 
 
 
