@@ -54,4 +54,4 @@ I Designed and implemented A/B experiment to decide which website design boosts 
 **projects**
 <li>Answering the question of whether or not a patient will show up for his  appointment
 <li>The goal is to Find the best teams and players in india to target for advertisments
-
+<li>The goal is to work through this notebook to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
