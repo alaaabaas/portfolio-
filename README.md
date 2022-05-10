@@ -66,8 +66,4 @@ https://github.com/alaaabaas/jupiter-notebook-projects/blob/main/sales_online_sh
 
 
 
-**certificates**
-<li> data analysis challenger track from udacity
-https://challenge.udacity.com/graduate?nd_key=nd002-mena-nfp1
-<li> data analysis Professional from udacity
-https://confirm.udacity.com/KDEZRHVP
+
