@@ -48,8 +48,8 @@ Graduated from Alexandria university department of communications and electronic
 
 While working as a teaching assistant at Alexandria university . I helped more than 700 students to start their data science future career by teaching them SQL ,Python and C Programming.l have also contributed to some of AI published researches by Virginia-Alexandra research institution which is popular in my country  .I have also worked as an independent data analyst for +2 years where I helped my clients to enhance their online businesses providing them with  data driven business recommendations .
 My most precious client is the ramiz retail collaboration  based here in Qatar. I helped them to save 100,000 $ by reporting infrastructure from the ground up using Tableau and SQL providing them with real-time insights into the marketing funnels ,and the business KPIs 
-I Designed and implemented A/B experiment to decide which website design boosts the conversion rate of an online courses website as a graduation project from my data analysis udacity nanodegree 
-
+I worked also with the eltwar group talented team to bulid operational reporting using teableau to find areas of improvement for contractors resulting 
+ in  an increase of $200,000 in annual incremental revenue 
 
 **projects**
 <li>Answering the question of whether or not a patient will show up for his  appointment
