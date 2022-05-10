@@ -62,3 +62,4 @@ https://github.com/alaaabaas/indian-priemier-league/blob/main/indian%20priemer%2
 <li>This project is a teableau dashboards discusses why and where flight delays happens most in USA
 https://github.com/alaaabaas/flight_cancelation_teableau/blob/main/project_flight_new.txt
 <li>this notebook discusses the sales of an online marketplace it is focused on discovering how to enhance the marketplace performance
+https://github.com/alaaabaas/jupiter-notebook-projects/blob/main/sales_online_shop.ipynb
