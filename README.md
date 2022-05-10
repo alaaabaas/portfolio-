@@ -60,4 +60,5 @@ https://github.com/alaaabaas/indian-priemier-league/blob/main/indian%20priemer%2
 <li>The project's goal is to analyze the  media products ,orders and ,sales of an online marketplace database using SQL
 [https://github.com/alaaabaas/songs_sales_SQL/blob/main/SQL_MUSIC_final.txt]
 <li>This project is a teableau dashboards discusses why and where flight delays happens most in USA
+https://github.com/alaaabaas/flight_cancelation_teableau/blob/main/project_flight_new.txt
 <li>this notebook discusses the sales of an online marketplace it is focused on discovering how to enhance the marketplace performance
