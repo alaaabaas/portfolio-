@@ -57,3 +57,4 @@ I Designed and implemented A/B experiment to decide which website design boosts 
 <li>The goal is to work through this notebook to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 <li>The project's goal is to analyze the  media products ,orders and ,sales of an online marketplace database using SQL
 <li>This project is a teableau dashboards discusses why and where flight delays happens most in USA
+<li>this notebook discusses the sales of an online marketplace it is focused on discovering how to enhance the marketplace performance
