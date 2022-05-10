@@ -63,3 +63,11 @@ https://github.com/alaaabaas/indian-priemier-league/blob/main/indian%20priemer%2
 https://github.com/alaaabaas/flight_cancelation_teableau/blob/main/project_flight_new.txt
 <li>this notebook discusses the sales of an online marketplace it is focused on discovering how to enhance the marketplace performance
 https://github.com/alaaabaas/jupiter-notebook-projects/blob/main/sales_online_shop.ipynb
+
+
+
+**certificates**
+<li> data analysis challenger track from udacity
+https://challenge.udacity.com/graduate?nd_key=nd002-mena-nfp1
+<li> data analysis Professional from udacity
+https://confirm.udacity.com/KDEZRHVP
