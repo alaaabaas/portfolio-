@@ -64,6 +64,7 @@ https://github.com/alaaabaas/A-B-test_-e-commerce-website/blob/main/AB_test_webp
 https://github.com/alaaabaas/flight_cancelation_teableau/blob/main/project_flight_new.txt
 <li>this notebook discusses the sales of an online marketplace it is focused on discovering how to enhance the marketplace performance
 https://github.com/alaaabaas/jupiter-notebook-projects/blob/main/sales_online_shop.ipynb
+<li>extracting information from a personal website
 
 
 
