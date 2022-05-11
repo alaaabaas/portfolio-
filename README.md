@@ -57,6 +57,7 @@ https://github.com/alaaabaas/no-show-for-appointments/blob/main/no_show_appointm
 <li>The goal is to Find the best teams and players in india to target for advertisments
 https://github.com/alaaabaas/indian-priemier-league/blob/main/indian%20priemer%20league.ipynb
 <li>The goal is to work through this notebook to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
+https://github.com/alaaabaas/A-B-test_-e-commerce-website/blob/main/AB_test_webpages%20(1).ipynb
 <li>The project's goal is to analyze the  media products ,orders and ,sales of an online marketplace database using SQL
 [https://github.com/alaaabaas/songs_sales_SQL/blob/main/SQL_MUSIC_final.txt]
 <li>This project is a teableau dashboards discusses why and where flight delays happens most in USA
