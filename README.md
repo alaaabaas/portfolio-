@@ -69,4 +69,4 @@ https://github.com/alaaabaas/personal_website_scrabing/blob/main/personal_websit
 <li>using human cell records the goal is to classify cells to whether the samples are benign (mild state) or malignant (evil state)
 https://github.com/alaaabaas/breast-cancer-detection-/blob/main/cancer%20detection.ipynb
 <li>scrabing all cars advertisments made by a certain user
-
+https://github.com/alaaabaas/olx-web-scrabing/blob/main/cars_olx.ipynb
