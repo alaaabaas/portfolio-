@@ -67,5 +67,5 @@ https://github.com/alaaabaas/jupiter-notebook-projects/blob/main/sales_online_sh
 <li>extracting information from a personal website
 https://github.com/alaaabaas/personal_website_scrabing/blob/main/personal_website_scrabing.ipynb
 <li>using human cell records the goal is to classify cells to whether the samples are benign (mild state) or malignant (evil state)
-
+https://github.com/alaaabaas/breast-cancer-detection-/blob/main/cancer%20detection.ipynb
 
