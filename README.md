@@ -37,12 +37,13 @@ showing the most recent results in an interactive way. By clicking and drilling,
 
 Graduated from Alexandria university department of communications and electronics with GPA3.32 at June 2018 
 
-**Courses**
+**Courses and internships **
 
  <li>Udacity Data analysis nanodegree 
  <li>Udemy SQL expert 
  <li>Full SQL from iti
- <li> machine learning from free code camp
+ <li>internship at the Sparks foundation
+ <li>machine learning from free code camp 
 
 **Experience and Achievements:**
 
