@@ -37,7 +37,7 @@ showing the most recent results in an interactive way. By clicking and drilling,
 
 Graduated from Alexandria university department of communications and electronics with GPA3.32 at June 2018 
 
-**Courses and internships **
+**Courses and internships**
 
  <li>Udacity Data analysis nanodegree 
  <li>Udemy SQL expert 
@@ -52,7 +52,17 @@ My most precious client is the ramiz retail collaboration  based here in Qatar. 
 I worked also with the eltwar group talented team to bulid operational reporting using teableau to find areas of improvement for contractors resulting 
  in  an increase of $200,000 in annual incremental revenue 
 
-**projects**
+**portfolio projects**
+<li>scrabing all cars advertisments made by a certain user
+https://github.com/alaaabaas/olx-web-scrabing/blob/main/cars_olx.ipynb
+<li>market basket analysis 
+https://github.com/alaaabaas/jupiter-notebook-projects/blob/main/sales_online_shop.ipynb
+<li>This project is a teableau dashboards discusses why and where flight delays happens most in USA
+https://github.com/alaaabaas/flight_cancelation_teableau/blob/main/project_flight_new.txt
+<li>Walmart stocks management 
+
+**personal projects**
+
 <li>Answering the question of whether or not a patient will show up for his  appointment
 https://github.com/alaaabaas/no-show-for-appointments/blob/main/no_show_appointment.ipynb
 <li>The goal is to Find the best teams and players in india to target for advertisments
