@@ -60,8 +60,10 @@ https://github.com/alaaabaas/jupiter-notebook-projects/blob/main/sales_online_sh
 <li>This project is a teableau dashboards discusses why and where flight delays happens most in USA
 https://github.com/alaaabaas/flight_cancelation_teableau/blob/main/project_flight_new.txt
 <li>Walmart stocks management 
+https://github.com/alaaabaas/forage-walmart-task-4/blob/main/walmart_final.ipynb
 
 **personal projects**
+
 
 <li>Answering the question of whether or not a patient will show up for his  appointment
 https://github.com/alaaabaas/no-show-for-appointments/blob/main/no_show_appointment.ipynb
