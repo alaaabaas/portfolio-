@@ -53,14 +53,18 @@ I worked also with the eltwar group talented team to bulid operational reporting
  in  an increase of $200,000 in annual incremental revenue 
 
 **portfolio projects**
+
+
 <li>scrabing all cars advertisments made by a certain user
 https://github.com/alaaabaas/olx-web-scrabing/blob/main/cars_olx.ipynb
 <li>market basket analysis 
 https://github.com/alaaabaas/jupiter-notebook-projects/blob/main/sales_online_shop.ipynb
-<li>This project is a teableau dashboards discusses why and where flight delays happens most in USA
+<li>teableau dashboards discussing why and where flight delays happens most in USA
 https://github.com/alaaabaas/flight_cancelation_teableau/blob/main/project_flight_new.txt
 <li>Walmart stocks management 
 https://github.com/alaaabaas/forage-walmart-task-4/blob/main/walmart_final.ipynb
+
+
 
 **personal projects**
 
