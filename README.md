@@ -53,6 +53,10 @@ I worked also with the eltwar group talented team to bulid operational reporting
  in  an increase of $200,000 in annual incremental revenue 
 
 **portfolio projects**
+<li>cohort analysis
+<li>recency,frequency,monetary value analysis 
+<li>data preprocessing for clustering 
+<li>customer segmentation with k-means
 
 
 <li>scrabing all cars advertisments made by a certain user
