@@ -70,9 +70,8 @@ https://github.com/alaaabaas/forage-walmart-task-4/blob/main/walmart_final.ipynb
 
 
 
+
 **personal projects**
-
-
 <li>Answering the question of whether or not a patient will show up for his  appointment
 https://github.com/alaaabaas/no-show-for-appointments/blob/main/no_show_appointment.ipynb
 <li>The goal is to Find the best teams and players in india to target for advertisments
