@@ -54,6 +54,7 @@ I worked also with the eltwar group talented team to bulid operational reporting
 
 **portfolio projects**
 <li>cohort analysis
+https://github.com/alaaabaas/cohort-retention-rate-analysis-in-python
 <li>recency,frequency,monetary value analysis 
 <li>data preprocessing for clustering 
 <li>customer segmentation with k-means
